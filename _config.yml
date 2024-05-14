@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "James Brodovsky"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "James Brodovsky"
+description              : &description "Robots, fighting, soccer"
 url                      : https://jbrodovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbrodovsky/jbrodovsky.github.io"
@@ -21,20 +21,20 @@ repository               : "jbrodovsky/jbrodovsky.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "james_square.jpg"
+  name             : "Bio"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics Engineer, Martial Artist, and Soccer Referee"
+  # location         : "Earth"
+  employer         : "Temple University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jbrodovsky@temple.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lhHmrTAAAAAJ&hl"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1371-9044"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "academicpages"
+  github           : "jbrodovsky"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -77,7 +77,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -202,15 +202,15 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
