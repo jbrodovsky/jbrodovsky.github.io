@@ -1,0 +1,54 @@
+---
+title: 'Hello World'
+date: 2024-05-13
+permalink: /posts/2024/05/hello/
+tags:
+  - blog
+  - news
+---
+
+This is a relaunch of my personal website and blog from my previous one on my [university webpage](https://sites.temple.edu/jbrodovsky/). While much has changed in the roughly two years since that original (and only) post, I'm reposting that original post as it still rings true in many respects.
+
+## Hello world! *originally published 20 April 2022*
+
+> It’s a dangerous business, Frodo, going out your door. You step onto the road, and if you don’t keep your feet, there’s no knowing where you might be swept off to. – Bilbo Baggins
+
+> J. R. R. Tolkien, The Lord of the Rings
+
+Hello there! My names is James and I’m an incoming Ph.D. student at Temple University’s Mechanical Engineering department. I’m excited to get started! Similarly, I have fairly recently taken up mixed-martial arts after over a decade of experience in chinmukwan taekwondo. Specifically, I have started training in Muay Thai and Brazilian jiu-jitsu. It is an interesting experience starting a Ph.D. and starting off as a white belt again after so many years as a black belt. I wanted to take some time to write about my experiences along the way. To say that this is how I had intended my post-undergraduate life to go is somewhat comical, as there have been many twists and turns along the way. Stepping out your door and into the world is, after all, dangerous business.
+
+To that end, this effort is partly inspired by [Philip Guo](https://pg.ucsd.edu/)‘s The Ph.D. Grind which you can find floating about the internet. In it, Dr. Guo presents both a timely and candid memoir of his experience in graduate school written shortly after graduating and then later released a second addition with comments and notes from his perspective now as an assistant professor. I read it many years ago prior to starting graduate school (and will probably give it another read prior to the start of the fall semester) and found it an enlightening and frank take. Specifically, Dr. Guo points out that most of the literature on the topic of graduate school is written from very polarized sources, frequently
+
+
+> …either successful professors or research scientists who pontificate stately advice or bitter Ph.D. graduates/dropouts who have been traumatized by their experiences, adopting a melodramatic, disillusioned, self-loathing tone of “ahhh my world was a living hell, what did I do with my life?!?
+
+> Philip Guo, The Ph.D. Grind
+
+
+That said, there was something lacking in The Ph.D. Grind and that I generally find across the literature: the less (or non-) traditional route. No one ever seems to talk about anything other than one continuous education from the completion of the undergraduate degree through to the Ph.D. At most, authors note a brief period of time working full time between undergrad and grad school. It is then assumed that the graduate student goes to school full time. They are typically not involved in an ongoing relationship, but if they are they are frequently unmarried, and certainly without children. Generally, most authors assume that a tenure-track professorship and or research scientist role at a government-funded (NSF, NIH, DoD, or other similar agencies) laboratory is the end goal (or why that is a bad goal and therefore you shouldn’t go to graduate school). Dr. Guo does, in fact, go to graduate school immediately after undergraduate, has the express goal of becoming a professor, and does end up on the tenure track. While his frank take is appreciated, I’m here to provide a complementary commentary from a mirrored perspective.
+
+I graduated from Drexel University in 2014 after having attended on an NROTC scholarship. I was commissioned as an Ensign in the US Navy the same day, and then given orders to report for flight training in Pensacola, FL as a student naval aviator. I got married a few weeks later. At 23 I had the next ten years of my life planned out: roughly the next two for flight school, followed by an eight year active duty obligation after that. I had vaguely considered the notion of graduate school at the time, mostly because I thought I could do a better job teaching undergraduates than some of my professors, but I also thought working in R&D as an officer might be an interesting career as well. I’d have opportunity to go to NPS while on active duty, and at the very least would have access to the benefits of the G.I. after my time was served. What could possibly go wrong?
+
+Turns out, however, I am a slow learner and not a very good pilot. Thus after having graduated, commissioned, gotten married, and moved across the country, two years later the Navy honorably discharged me and sent me back home, now with a dog and a newborn. That was the last time I ever made long term plans without a backup or alternative.
+
+I quickly got a job that paid me well enough and had health insurance, even if it wasn’t exactly what I wanted to do. My wife, having quit her job and moved to freelance, moved more to the caretaker role while I provided. I didn’t really know what to do from here. I briefly looked into becoming a professional soccer referee (something I have done off and on again for some additional cash). I eventually settled on robotics as it combined the interests of mechanical engineering I studied in college with computer science I had studied in high school. I knew that I would need to go back to graduate school in order to further develop my skills in that area. A variety of factors (location, cost, class availability, advisors) eventually led me to Temple University.
+
+Shortly after that, I did some research on the job market and realized that no one in my local area would hire a mid-twenties engineer with an M.S. and less than five years experience in the robotics industry (what little jobs there were). I would either need to get the Ph.D. or move out to where the jobs were, namely Silicone Valley. Now with a young family, moving across the country again and away from family support wasn’t exactly an enticing option.
+
+I kept plugging along part-time at the M.S. until I lucked into a one-year assistantship. That funding allowed me to go back to school full time albeit on a shoestring budget now with a second child. The temporary pay cut was worth it to get a tuition waiver and accelerate my plan of study, but it wouldn’t be viable in the long-term for a Ph.D. I completed the year, passed my thesis defense (barely), and got accepted into the Ph.D. program at Temple for the first time. I also started at my current position as an R&D Engineer at Penn State’s Applied Research Laboratory. However, I ended up backing out of the Ph.D. this first time as I couldn’t afford the TA/RA salary (thus the need for an industry research job), my employers were concerned about IP rights, and frankly, I needed a break. I barely squeaked through (in my opinion) on my M.S. thesis. There was a lot of literature I was unfamiliar with. I needed a moment to breath, and to catch up my skill set. As I mentioned, I am a slow learner.
+
+An that is what I did from 2019 to now. I found tutorials, plumbed the internet for MooCs and other online educational material (big shoutout to Udacity) and slowly built my skill set up while also slowly coming up to speed as a researcher while meanwhile raising a young family. I still felt this lingering itch however. I knew my career (be it elsewhere than PSU, or within the ARL) would benefit from having a Ph.D. Not having it left me feeling incomplete; it was a loose thread that needed tying-off, but still being the parent with the primary income, we couldn’t afford for me to go back to school full time for three to five years.
+
+Then, COVID hit.
+
+While terrible, the silver lining of the COVID-19 related quarantine is that the whole world learned how to telecommute and do remote-work really fast. I was now saving two hours of commuting each day. While my family did go into full quarantine for fourteen months, we came out of it in June 2021 with a new sense of flexibility. I had been working for PSU for two years and had only spent 10 months on site. ARL had a productive year and has continually reauthorized those that can to work from home. I’ve been doing some actual research and engineering for the first time in my career. With those positives, I turned 30 and decided that this was the year to take charge again and exert positive influences on my life.
+
+I decided to get back into martial arts. While a multi-sport athlete as a teenager, I found now as an adult with some unwanted COVID-related quarantine weight, that it was tougher to drop weight, make time to exercise, and stay in shape. I had tried typical weight lifting at the gym. That didn’t stick. I tried to run more and try and get back into my track and field shape. That didn’t have the weight loss results I wanted. I tried just basic dieting. I got ego fatigue and would eventually eat a whole bunch of cookies.
+
+I found myself thinking back to my competitive martial arts days and the informal grappling sessions I would periodically do with a couple of other students. I found plenty of striking schools (karate, taekwondo, boxing) and I found plenty of grappling schools (judo and Brazilian jiu-jitsu). I didn’t really want to pay for membership to two places and eventually found a gym that offered both nearby: The North Star Academy.
+
+The striking in the Muay Thai curriculum came to me pretty quickly, over a decade of taekwondo experience helped there, but starting off as a white belt again in the Brazilian jiu-jitsu curriculum felt an awful lot like starting graduate school again: a firehose torrent of information thrown at you at once and you’ve just got to find a way to survive. I’m about nine months into my training there and I’m finally starting to get a handle on things.
+
+Similarly to graduate school, the study of martial arts is frequently described as a journey and involves both deep self- and subject-based exploration. As someone with over a decade of experience in taekwondo and a third degree black belt, it was incredibly weird to start over again as a white belt, not too dissimilar to the “starting over” one does in graduate school, particularly after a long break. Additionally, there is the practice of referring to black belt instructors in BJJ as “professor” in formal settings as opposed to master or sensei. To me, the goal of earning a Ph.D. and a jiu-jitsu black belt oddly parallel each other, and I think it’ll be an interesting thing to document.
+
+All that is to say, it has been a strange journey getting here, and not the one that I expected. I did not keep my feet and was swept along. Now, having regained my footing, I think I’m ready for another adventure.
