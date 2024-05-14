@@ -6,4 +6,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page!
+Hi, I'm James. I'm a robotics engineer. You can find a digital copy of my CV [here](/cv).
