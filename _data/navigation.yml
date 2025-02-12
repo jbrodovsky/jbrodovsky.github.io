@@ -13,7 +13,11 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/     
+    url: /talks/
+
+  - title: "Work With Me"
+    url: /contact/ 
+
   # - title: "CV"
   #   url: /cv/
     

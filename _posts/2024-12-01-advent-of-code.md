@@ -1,5 +1,5 @@
 ---
-title: 'Rust and C for Advent of Code'
+title: 'Rust and C++ for Advent of Code'
 date: 2024-12-01
 permalink: /posts/2024/12/advent-of-code/
 tags:
