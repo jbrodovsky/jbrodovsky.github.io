@@ -99,7 +99,9 @@ I-Corps shares this philosophy that I have, that successful transformative busin
 
 So I'm taking my shot at this, because if it works, there won't be anybody else out there to tell me no. There won't be any recruiters trying to get me to move across the country for a new job. I won't have to bounce between universities as a post doc. I won't have to worry about getting tenure.
 
-To borrow a [passing phrase from Bono](https://www.youtube.com/watch?v=cLdvK7KuMcc&ab_channel=InTheNameOfU2) regarding their live cover of [Beatles classic *Helter Skelter*](https://en.wikipedia.org/wiki/Helter_Skelter_(song)#Cover_versions) as part of U2's *Rattle and Hum* tour, the lean methodology was stolen from the hard tech world. I'm stealing it back.
+To borrow a [passing phrase from Bono](https://www.youtube.com/watch?v=cLdvK7KuMcc&ab_channel=InTheNameOfU2) regarding their live cover of the [Beatles classic *Helter Skelter*](https://en.wikipedia.org/wiki/Helter_Skelter_(song)#Cover_versions) as part of U2's *Rattle and Hum* tour, the lean methodology was stolen from the hard tech world. 
+
+I'm stealing it back.
 
 ---
 
