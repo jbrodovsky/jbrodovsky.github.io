@@ -7,6 +7,8 @@ tags:
   - news
 ---
 
+PIPELINE CHECK!
+
 This is a relaunch of my personal website and blog from my previous one on my [university webpage](https://sites.temple.edu/jbrodovsky/). While much has changed in the roughly two years since that original (and only) post, I'm reposting that original post as it still rings true in many respects.
 
 ## Hello world! *originally published 20 April 2022*
