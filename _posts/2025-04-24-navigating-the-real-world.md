@@ -104,7 +104,3 @@ To borrow a [passing phrase from Bono](https://www.youtube.com/watch?v=cLdvK7KuM
 ---
 
 *This post is part of my ongoing series documenting the transition from research to real-world product through the NSF I-Corps program. Follow along as I attempt to build a business — or find out if I crash along the way.*
-
----
-
-Originally posted on [my blog](https://jbrodovsky.github.io/blog/).
