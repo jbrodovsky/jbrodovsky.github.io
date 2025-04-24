@@ -1,6 +1,6 @@
 ---
 title: 'The Problems with Navigating the Real World'
-date: 2024-04-24
+date: 2025-04-24
 permalink: /posts/2025/04/navigating_the_real_world/
 tags:
   - blog
