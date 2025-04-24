@@ -19,11 +19,9 @@ Hello there! My names is James and I’m an incoming Ph.D. student at Temple Uni
 
 To that end, this effort is partly inspired by [Philip Guo](https://pg.ucsd.edu/)‘s The Ph.D. Grind which you can find floating about the internet. In it, Dr. Guo presents both a timely and candid memoir of his experience in graduate school written shortly after graduating and then later released a second addition with comments and notes from his perspective now as an assistant professor. I read it many years ago prior to starting graduate school (and will probably give it another read prior to the start of the fall semester) and found it an enlightening and frank take. Specifically, Dr. Guo points out that most of the literature on the topic of graduate school is written from very polarized sources, frequently
 
-
 > …either successful professors or research scientists who pontificate stately advice or bitter Ph.D. graduates/dropouts who have been traumatized by their experiences, adopting a melodramatic, disillusioned, self-loathing tone of “ahhh my world was a living hell, what did I do with my life?!?
 
 > Philip Guo, The Ph.D. Grind
-
 
 That said, there was something lacking in The Ph.D. Grind and that I generally find across the literature: the less (or non-) traditional route. No one ever seems to talk about anything other than one continuous education from the completion of the undergraduate degree through to the Ph.D. At most, authors note a brief period of time working full time between undergrad and grad school. It is then assumed that the graduate student goes to school full time. They are typically not involved in an ongoing relationship, but if they are they are frequently unmarried, and certainly without children. Generally, most authors assume that a tenure-track professorship and or research scientist role at a government-funded (NSF, NIH, DoD, or other similar agencies) laboratory is the end goal (or why that is a bad goal and therefore you shouldn’t go to graduate school). Dr. Guo does, in fact, go to graduate school immediately after undergraduate, has the express goal of becoming a professor, and does end up on the tenure track. While his frank take is appreciated, I’m here to provide a complementary commentary from a mirrored perspective.
 
