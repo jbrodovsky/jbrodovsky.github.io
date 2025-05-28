@@ -78,7 +78,7 @@ That said, this idea is also too early... to form a company around. But that doe
 
 1. Software-defined solutions are preferred as it is easier to integrate into existing *trusted* platforms. And I quote: "we're not there to yank the avionics."
 2. The key metric with navigation systems is drift-reduction. GPS is there, it works, it's accurate. We simply don't want to have to rely on it to know where we are. If drift reduction during GPS-denial or unavailability can be reduced you've got a winner.
-3. There is lots of space to play in this market and lots of interest in trying out new solutions. The key is to find a specific differentiator (platform, performance quality, use case, etc.) and then find a customer that is willing to pay for it.
+3. There is lots of space to play in this market and lots of interest in trying out new solutions. The key is to find a specific differentiation (platform, performance quality, use case, etc.) and then find a customer that is willing to pay for it.
 
 ## Conclusion
 
