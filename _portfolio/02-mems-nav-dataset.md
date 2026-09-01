@@ -49,6 +49,6 @@ GNSS-denied and GNSS-degraded navigation results become comparable across papers
   title  = {{MEMS Navigation Dataset}},
   year   = {2025},
   howpublished = {\url{https://github.com/jbrodovsky/mems-nav-dataset}},
-  note   = {TODO: replace with DOI}
+  note   = {Zenodo DOI forthcoming}
 }
 ```
