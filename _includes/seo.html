@@ -48,7 +48,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if seo_description %}
+{% if page.excerpt %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
@@ -60,11 +60,11 @@
 
   {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: seo_url }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if site.og_image %}
-      <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: seo_url }}">
+      <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
     {% endif %}
   {% endif %}
 
@@ -84,20 +84,9 @@
 {% endif %}
 
 {% if page.header.image %}
-  {% assign seo_image = page.header.image %}
+  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
-  {% assign seo_image = page.header.overlay_image %}
-{% elsif site.og_image %}
-  {% assign seo_image = site.og_image %}
-{% endif %}
-
-{% if seo_image %}
-  {% if seo_image contains "://" %}
-    {% assign seo_image_url = seo_image %}
-  {% else %}
-    {% assign seo_image_url = seo_image | prepend: "/images/" | prepend: seo_url %}
-  {% endif %}
-  <meta property="og:image" content="{{ seo_image_url }}">
+  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
 {% if page.date %}
@@ -112,11 +101,16 @@
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
-{% comment %}
-  The theme emitted a nameless schema.org Organization here purely to carry a logo. On a
-  personal site that competes with the Person entity below at the same URL, so it is gone;
-  site.og_image is still used for the og:image / twitter:image tags above.
-{% endcomment %}
+{% if site.og_image %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": {{ seo_url | jsonify }},
+      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+    }
+  </script>
+{% endif %}
 
 {% if site.social %}
   <script type="application/ld+json">
