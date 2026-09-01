@@ -1,6 +1,7 @@
 ---
 title: "A Comparison of the Probability Hypothesis Density Filter and the Multiple Hypothesis Tracker for Tracking Targets of Multiple Types"
 collection: publications
+pubtype: thesis
 permalink: /publication/2019-ms-thesis
 excerpt: 'M.S. thesis comparing PHD filter and MHT performance on multi-target tracking problems where targets are of heterogeneous types.'
 date: 2019-05-01

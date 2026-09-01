@@ -31,4 +31,7 @@ The useful output is a *fixability* metric that behaves like a sensor specificat
 these trajectory parameters over this map, I know my position to within some bound. That
 turns geophysical aiding from something you try into something you can budget for.
 
-<!-- TODO(james): link the resulting journal paper and dissertation chapter once they're out. -->
+The resulting paper is
+[under review at IEEE Transactions on Aerospace and Electronic Systems]({{ base_path }}/publication/geo-fixability).
+The work was supported by a $50,000 Penn State Applied Research Laboratory internal research
+and development grant, for which I was principal investigator.

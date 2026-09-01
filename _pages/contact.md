@@ -14,10 +14,10 @@ answered. Code questions and bug reports are better filed as issues on the relev
 
 ## Research interests
 
-My dissertation work covers navigation in GNSS-denied environments using MEMS-grade
-inertial sensors and geophysical anomalies — using the Earth's gravity, magnetic, and
-bathymetric fields as a map to bound inertial drift when satellite navigation is
-unavailable. That has produced both particle filter and unscented Kalman filter
+My dissertation — *Robust Inertial Navigation in GNSS-Denied Environments Using MEMS Grade
+Sensors and Passive Geophysical Aiding* — uses the Earth's own gravity, magnetic, and
+bathymetric anomaly fields as a map to bound inertial drift when satellite navigation is
+unavailable, on the cheap, noisy sensors most platforms actually carry. That has produced both particle filter and unscented Kalman filter
 formulations, a study of when map information is theoretically sufficient to produce a
 fix at all, and an open dataset and toolbox for evaluating any of it.
 
