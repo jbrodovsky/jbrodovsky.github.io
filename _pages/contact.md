@@ -1,19 +1,44 @@
 ---
 layout: archive
-title: "Contact Me"
+title: "Work With Me"
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
-I'm always looking for new opportunities to collaborate and work on interesting projects. If you have a project that you think I'd be a good fit for, or if you're interested in working with me, please feel free to [reach out to me](mailto:jbrodovsky@temple.edu?subject=Collaboration%20Opportunity). I'm always open to new opportunities and I'm happy to discuss how we can work together.
 
-## Research Interests
+The best way to reach me is on
+[LinkedIn](https://www.linkedin.com/in/jamesbrodovsky) — messages there get read and
+answered. Code questions and bug reports are better filed as issues on the relevant
+[GitHub repository](https://github.com/jbrodovsky).
 
-I'm currently working on a number of projects related to autonomous navigation systems, particularly in the context of marine or aerospace grade navigation and in GPS-/GNSS-denied scenarios. If you have a background or interest in such systems and would like to collaborate, please feel free to reach out to me. I'm always looking for new opportunities to collaborate and work on interesting projects.
+## Research interests
 
-My particular research thrust at the moment is investigating the use of particle filters and geophysical signals (primarily bathymetry/radar altimetry, gravity anomaly, and magnetic anomaly) to improve the accuracy and robustness of autonomous inertial navigation systems. I'm also interested in the use of machine learning and computer vision techniques to improve the robustness of these systems in challenging environments.
+My dissertation — *Robust Inertial Navigation in GNSS-Denied Environments Using MEMS Grade
+Sensors and Passive Geophysical Aiding* — uses the Earth's own gravity, magnetic, and
+bathymetric anomaly fields as a map to bound inertial drift when satellite navigation is
+unavailable, on the cheap, noisy sensors most platforms actually carry. That has produced both particle filter and unscented Kalman filter
+formulations, a study of when map information is theoretically sufficient to produce a
+fix at all, and an open dataset and toolbox for evaluating any of it.
+
+Adjacent problems I'm interested in: sensor fusion architectures for small autonomous
+air vehicles, characterizing and modeling low-cost IMU error, terrain- and
+vision-relative navigation, and benchmarking — the field badly needs shared datasets and
+reproducible baselines, which is most of why I publish the tooling I do.
+
+If you work on any of that, in industry or academia, I'd like to hear from you.
+
+## Collaboration
+
+I'm open to co-authorship, reviewing, dataset contributions, and conference sessions in
+the PNT and robotics communities. If you're organizing a session or panel on GNSS-denied
+navigation, get in touch.
 
 ## Consulting
 
-I'm also available for consulting work in the areas of robotics, autonomous systems, and software development as well as previous experience as a startup founder. I'm available for short-term or long-term consulting engagements and I'm happy to discuss how I can help you with your project or work with your due diligence team to evaluate a potential investment.
+I take selected consulting engagements in navigation, autonomy, and research software —
+short- or long-term. Typical work: algorithm design and review for GNSS-denied or
+GNSS-degraded navigation, sensor selection and error budgeting, turning research code
+into something maintainable, and technical due diligence for investors evaluating
+navigation or autonomy companies. I've been on the founder side of that last one, which
+tends to make the questions sharper.

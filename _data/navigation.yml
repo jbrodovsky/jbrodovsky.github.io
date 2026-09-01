@@ -6,24 +6,20 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Teaching"
-    url: /teaching/    
-  
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Work With Me"
-    url: /contact/ 
+    url: /contact/
 
   # - title: "CV"
   #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
-
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        

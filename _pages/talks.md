@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
+Refereed conference presentations. Papers appear on the
+[publications]({{ base_path }}/publications/) page.
+
+{% assign talks = site.talks | sort: 'date' | reverse %}
+{% for post in talks %}
+  {% include archive-single-talk.html %}
 {% endfor %}
